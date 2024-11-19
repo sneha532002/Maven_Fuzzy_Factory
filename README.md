@@ -1,5 +1,5 @@
 # Maven_Fuzzy_Factory
-#Problem Statement
+Problem Statement
 An  e-commerce company face challenge in understanding what drives conversions, customer retention, and product profitability. My goal is to identify and optimize KPIs across the customer journey, from the initial website visit through to purchase and post-purchase behavior.
 
 Key Insights
